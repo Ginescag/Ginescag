@@ -1,5 +1,5 @@
 # Hi, I'm Ginés! 👋
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
+![Banner](https://github.com/Ginescag/Ginescag/blob/main/assets/ghBanner.jpg?raw=true)
 
 **Hi, I'm Ginés!**
 
