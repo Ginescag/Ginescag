@@ -1,7 +1,7 @@
-# Hi, I'm Ginés! 👋
+
 ![Banner](https://github.com/Ginescag/Ginescag/blob/main/assets/ghBanner.jpg?raw=true)
 
-**Hi, I'm Ginés!**
+# Hi, I'm Ginés! 👋
 
 I'm a passionate full-stack developer with a deep love for programming, music, and fashion. Known for being an easy person to work with and a hard worker, I thrive in collaborative environments and am always eager to tackle new challenges.
 
