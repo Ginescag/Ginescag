@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Ginés! 👋
 ![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
 
-**Hi, I'm [Your Name]!**
+**Hi, I'm Ginés!**
 
 I'm a passionate full-stack developer with a deep love for programming, music, and fashion. Known for being an easy person to work with and a hard worker, I thrive in collaborative environments and am always eager to tackle new challenges.
 
