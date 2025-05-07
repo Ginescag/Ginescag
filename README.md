@@ -1,4 +1,4 @@
-![Banner](https://github.com/Ginescag/Ginescag/blob/main/assets/ghBanner.jpg?raw=true)
+
 
 # Hi, I'm Ginés! 👋
 
