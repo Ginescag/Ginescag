@@ -4,7 +4,7 @@
 
 I'm a passionate full-stack developer with a deep love for programming, music, and fashion. Known for being an easy person to work with and a hard worker, I thrive in collaborative environments and am always eager to tackle new challenges.
 
-I specialize in **Python**—especially using AI training tools like **Keras**, **Pandas**, and **OpenCV**—and I'm keen on exploring **C++**, distributed systems, and modern web technologies with **Flask** and **Apache Kafka**. I also have experience with **Java**, **PHP/Laravel**, and databases such as **Oracle SQL** and **Postgres**.
+I specialize in **Python**—especially using AI training tools like **Keras**, **Pandas**, and **OpenCV**—and I'm keen on exploring **C++**, distributed systems, and modern web technologies with **Flask** and **Apache Kafka**. I also have experience with **Java**, **PHP/Laravel** and databases.
 
 Currently, I'm diving into robotics with **ROS 1 Noetic** and preparing to expand my skills with **ROS 2**. Fluent in both **Spanish** and **English** (and slowly learning **Chinese**), I bring a diverse perspective to every project.
 
