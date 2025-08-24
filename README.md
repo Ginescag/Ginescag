@@ -6,7 +6,7 @@ I'm a passionate full-stack developer with a deep love for programming, music, a
 
 I specialize in **Python**—especially using AI training tools like **Keras**, **Pandas**, and **OpenCV**—and I'm keen on exploring **C++**, distributed systems, and modern web technologies with **Flask** and **Apache Kafka**. I also have experience with **Java**, **PHP/Laravel** and databases.
 
-Currently, I'm diving into robotics with **ROS 1 Noetic** and preparing to expand my skills with **ROS 2**. Fluent in both **Spanish** and **English** (and slowly learning **Chinese**), I bring a diverse perspective to every project.
+Currently, I'm diving into robotics with **ROS 1 Noetic** and preparing to expand my skills with **ROS 2**. Fluent in both **Spanish** and **English** (and very slowly learning **Chinese**).
 
 Beyond coding, my passion for music and fashion fuels my creativity and inspires my work. I'm always learning new things across these fields, striving to integrate creativity with technical excellence.
 
