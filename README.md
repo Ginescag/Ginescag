@@ -1,21 +1,27 @@
-
-
 # Hi, I'm Ginés! 👋
 
-I'm a passionate full-stack developer with a deep love for programming, music, and fashion. Known for being an easy person to work with and a hard worker, I thrive in collaborative environments and am always eager to tackle new challenges.
+I'm an AI Developer and Computer Engineering student specializing in Machine Learning, Robotics, and Computer Vision[cite: 1]. Known for being an easy person to work with and a hard worker, I thrive in collaborative environments and love building optimized ML systems from research to production[cite: 1]. 
 
-I specialize in **Python** (especially using AI training tools like **Keras**, **Pandas**, and **OpenCV**) and I'm keen on exploring **C++**, distributed systems, and modern web technologies with **Flask** and **Apache Kafka**. I also have experience with **Java**, **PHP/Laravel** and databases.
+Currently, I am in my senior year at the University of Alicante (graduating in July 2026)[cite: 1]. I work as an AI Developer Intern at PLD Space, where I architect industrial-grade RAG pipelines, deploy local LLMs (like Llama 3 and Qwen-Coder) on NVIDIA Blackwell architecture, and engineer PyTorch segmentation models for the Miura 5 aerospace project[cite: 1]. Fluent in both **Spanish** (Native) and **English** (C1)[cite: 1]. I am also open to relocate[cite: 1].
 
-Currently, I'm diving into robotics with **ROS 1 Noetic** and preparing to expand my skills with **ROS 2**. Fluent in both **Spanish** and **English**.
-
-Beyond coding, my passion for music and fashion fuels my creativity and inspires my work. I'm always learning new things across these fields, striving to integrate creativity with technical excellence.
+Beyond coding and ML architectures, my passion for music and fashion fuels my creativity and inspires my work. I'm always learning new things across these fields, striving to integrate creativity with technical excellence.
 
 Let's connect and build something amazing!
 
 ---
 
-## Tech Stack & Tools
+## 🚀 Experience & Projects
 
+*   **PLD Space - AI Developer:** Deployed industrial-grade RAG pipelines (Qdrant, Llama 3) achieving 14s end-to-end latency[cite: 1]. Engineered a PyTorch U-Net segmentation model for automated welding QA on the Miura 5, achieving an F1-score of 0.91[cite: 1].
+*   **Demon Attack AI:** Built reinforcement learning models (Q-Learning and Genetic Algorithms in C++) to autonomously play the Atari game using the Arcade Learning Environment[cite: 1].
+*   **Sabadell GO!:** Developed a fintech MVP using multi-agent flows and PSD2 banking standards at the Innovation Banking Hack Fest 2025[cite: 1].
+*   **Autonomous Navigation (TB3):** Co-developed a genetic algorithm for a TurtleBot3 in Gazebo using Python and ROS Noetic, integrated with a YOLO model for obstacle recognition[cite: 1].
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -23,50 +29,51 @@ Let's connect and build something amazing!
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </div>
 
+### AI, Machine Learning & Computer Vision
 <div>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </div>
 
+### Backend, Data & Robotics
 <div>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Qdrant-EF4D5D?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
 </div>
 
 ---
 
-## Additional Skills & Tools
+## ⚙️ Additional Skills & Tools
 
 <div>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
 </div>
 
-*I work comfortably with Docker, Git, and various Linux distributions (Debian, Rocky, Ubuntu). I'm also eager to learn more about the JavaScript ecosystem, including Next.js, Node.js, and other modern web frameworks.*
+*I have a solid foundation in distributed systems, ETL pipelines, and working with LLMs (including vLLM orchestration)[cite: 1]. I'm also eager to keep expanding my skill set in modern AI architectures and optimization[cite: 1].*
 
 ---
 
-## Personal Interests
+## 🎨 Personal Interests
 
 - **Music:** My passion for music fuels my creativity and inspires my work.
 - **Fashion:** I believe style is a form of expression, and it influences my approach to design and innovation.
-- **Continuous Learning:** I’m always eager to expand my knowledge in tech, music, and fashion.
+- **Continuous Learning:** I’m always eager to expand my knowledge in tech, ML research, music, and fashion[cite: 1].
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ginescag&show_icons=true&theme=radical)
-
----
-
 
