@@ -1,8 +1,8 @@
 # Hi, I'm Ginés! 👋
 
-I'm an AI Developer and Computer Engineering student specializing in Machine Learning, Robotics, and Computer Vision[cite: 1]. Known for being an easy person to work with and a hard worker, I thrive in collaborative environments and love building optimized ML systems from research to production[cite: 1]. 
+I'm an AI Developer and Computer Engineering student specializing in Machine Learning, Robotics, and Computer Vision. Known for being an easy person to work with and a hard worker, I thrive in collaborative environments and love building optimized ML systems from research to production. 
 
-Currently, I am in my senior year at the University of Alicante (graduating in July 2026)[cite: 1]. I work as an AI Developer Intern at PLD Space, where I architect industrial-grade RAG pipelines, deploy local LLMs (like Llama 3 and Qwen-Coder) on NVIDIA Blackwell architecture, and engineer PyTorch segmentation models for the Miura 5 aerospace project[cite: 1]. Fluent in both **Spanish** (Native) and **English** (C1)[cite: 1]. I am also open to relocate[cite: 1].
+Currently, I am in my senior year at the University of Alicante (graduating in July 2026). I work as an AI Developer Intern at PLD Space, where I architect industrial-grade RAG pipelines, deploy local LLMs (like Llama 3 and Qwen-Coder) on NVIDIA Blackwell architecture, and engineer PyTorch segmentation models for the Miura 5 aerospace project. Fluent in both **Spanish** (Native) and **English** (C1). I am also open to relocate.
 
 Beyond coding and ML architectures, my passion for music and fashion fuels my creativity and inspires my work. I'm always learning new things across these fields, striving to integrate creativity with technical excellence.
 
@@ -12,10 +12,10 @@ Let's connect and build something amazing!
 
 ## 🚀 Experience & Projects
 
-*   **PLD Space - AI Developer:** Deployed industrial-grade RAG pipelines (Qdrant, Llama 3) achieving 14s end-to-end latency[cite: 1]. Engineered a PyTorch U-Net segmentation model for automated welding QA on the Miura 5, achieving an F1-score of 0.91[cite: 1].
-*   **Demon Attack AI:** Built reinforcement learning models (Q-Learning and Genetic Algorithms in C++) to autonomously play the Atari game using the Arcade Learning Environment[cite: 1].
-*   **Sabadell GO!:** Developed a fintech MVP using multi-agent flows and PSD2 banking standards at the Innovation Banking Hack Fest 2025[cite: 1].
-*   **Autonomous Navigation (TB3):** Co-developed a genetic algorithm for a TurtleBot3 in Gazebo using Python and ROS Noetic, integrated with a YOLO model for obstacle recognition[cite: 1].
+*   **PLD Space - AI Developer:** Deployed industrial-grade RAG pipelines (Qdrant, Llama 3) achieving 14s end-to-end latency. Engineered a PyTorch U-Net segmentation model for automated welding QA on the Miura 5, achieving an F1-score of 0.91.
+*   **Demon Attack AI:** Built reinforcement learning models (Q-Learning and Genetic Algorithms in C++) to autonomously play the Atari game using the Arcade Learning Environment.
+*   **Sabadell GO!:** Developed a fintech MVP using multi-agent flows and PSD2 banking standards at the Innovation Banking Hack Fest 2025.
+*   **Autonomous Navigation (TB3):** Co-developed a genetic algorithm for a TurtleBot3 in Gazebo using Python and ROS Noetic, integrated with a YOLO model for obstacle recognition.
 
 ---
 
@@ -61,7 +61,7 @@ Let's connect and build something amazing!
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
 </div>
 
-*I have a solid foundation in distributed systems, ETL pipelines, and working with LLMs (including vLLM orchestration)[cite: 1]. I'm also eager to keep expanding my skill set in modern AI architectures and optimization[cite: 1].*
+*I have a solid foundation in distributed systems, ETL pipelines, and working with LLMs (including vLLM orchestration). I'm also eager to keep expanding my skill set in modern AI architectures and optimization.*
 
 ---
 
@@ -69,7 +69,7 @@ Let's connect and build something amazing!
 
 - **Music:** My passion for music fuels my creativity and inspires my work.
 - **Fashion:** I believe style is a form of expression, and it influences my approach to design and innovation.
-- **Continuous Learning:** I’m always eager to expand my knowledge in tech, ML research, music, and fashion[cite: 1].
+- **Continuous Learning:** I’m always eager to expand my knowledge in tech, ML research, music, and fashion.
 
 ---
 
