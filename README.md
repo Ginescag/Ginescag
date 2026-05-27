@@ -66,7 +66,6 @@ I work on problems where models need to perform in the real world — constraine
 
 | System | Details |
 |---|---|
-| **RAG Pipeline** | Qdrant + Llama 3 via n8n · 700ms ingestion · 14s e2e latency · 20+ concurrent users |
 | **LLM at Scale** | Llama & Qwen-Coder 80B on NVIDIA Blackwell + vLLM · 3M+ tokens/day · fully air-gapped |
 | **CV on Miura 5** | Dual-model welding QA (F1=0.957 · AUC=0.997) · 50% less manual review · deployed on prod line |
 
@@ -76,10 +75,10 @@ I work on problems where models need to perform in the real world — constraine
 
 <div align="center">
 
-| 🤖 Indoor Patrol Robot *(Thesis)* | 🎮 Demon Attack AI | 💳 Sabadell GO! |
+| 🤖 Indoor Patrol Robot *(Thesis)* | 🎮 Demon Attack AI |
 |---|---|---|
-| ROS 2 · YOLOv8 · Kafka · FastAPI · Flutter · InfluxDB · S3 | C++ · Q-Learning · Genetic Algorithms · ALE | Multi-agent LLMs · PSD2 Open Banking |
-| Autonomous SLAM + real-time detection, Kafka-decoupled robot-backend | Two RL approaches from scratch beating Atari via RAM register analysis | 🥇 1st place · Innovation Banking Hack Fest 2025 · 48h MVP |
+| ROS 2 · YOLOv8 · Kafka · FastAPI · Flutter · InfluxDB · S3 | C++ · Q-Learning · Genetic Algorithms · ALE |
+| Autonomous SLAM + real-time detection, Kafka-decoupled robot-backend | Two RL approaches from scratch beating Atari via RAM register analysis |
 
 </div>
 
