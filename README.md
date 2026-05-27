@@ -1,74 +1,94 @@
-# Hi, I'm Ginés! 👋
+<div align="center">
 
-I'm an AI Developer and Computer Engineering student specializing in Machine Learning, Robotics, and Computer Vision. Known for being an easy person to work with and a hard worker, I thrive in collaborative environments and love building optimized ML systems from research to production. 
+```
+ ██████╗ ██╗███╗   ██╗███████╗███████╗
+██╔════╝ ██║████╗  ██║██╔════╝██╔════╝
+██║  ███╗██║██╔██╗ ██║█████╗  ███████╗
+██║   ██║██║██║╚██╗██║██╔══╝  ╚════██║
+╚██████╔╝██║██║ ╚████║███████╗███████║
+ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
+```
 
-Beyond coding and ML architectures, my passion for music and fashion fuels my creativity and inspires my work. I'm always learning new things across these fields, striving to integrate creativity with technical excellence.
+### AI Developer · Computer Engineering · Alicante, Spain
 
-Let's connect and build something amazing!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ginescaballero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ginescaballero)
+[![GitHub](https://img.shields.io/badge/GitHub-Ginescag-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ginescag)
+[![Email](https://img.shields.io/badge/Email-ginescag__2@outlook.es-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:ginescag_2@outlook.es)
 
----
-
-## 🚀 Experience & Projects
-
-*   **PLD Space - AI Developer:** Deployed industrial-grade RAG pipelines (Qdrant, Llama 3) achieving 14s end-to-end latency. Engineered a PyTorch U-Net segmentation model for automated welding QA on the Miura 5, achieving an F1-score of 0.91.
-*   **Demon Attack AI:** Built reinforcement learning models (Q-Learning and Genetic Algorithms in C++) to autonomously play the Atari game using the Arcade Learning Environment.
-*   **Sabadell GO!:** Developed a fintech MVP using multi-agent flows and PSD2 banking standards at the Innovation Banking Hack Fest 2025.
-*   **Autonomous Navigation (TB3):** Co-developed a genetic algorithm for a TurtleBot3 in Gazebo using Python and ROS Noetic, integrated with a YOLO model for obstacle recognition.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</div>
-
-### AI, Machine Learning & Computer Vision
-<div>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</div>
-
-### Backend, Data & Robotics
-<div>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
-  <img src="https://img.shields.io/badge/Qdrant-EF4D5D?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
 </div>
 
 ---
 
-## ⚙️ Additional Skills & Tools
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginescag&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+### About me
+
+I build production ML systems — from segmentation models on aerospace hardware to RAG pipelines serving 20+ engineers. Currently finishing my CS degree at the University of Alicante (GPA 9.0+) while interning at **PLD Space** as an AI Developer.
+
+I'm drawn to problems where ML has to work in the real world: constrained hardware, proprietary data, and zero tolerance for false negatives.
+
+Outside of code: music, fashion, and whatever I'm learning this week.
+
+<br clear="right"/>
+
+---
+
+### Work that shipped
+
+**PLD Space — AI Developer** *(Feb 2026 – Present)*
+- RAG pipeline: Qdrant + Llama 3 via n8n, 700ms ingestion, 14s e2e latency, 20+ concurrent users
+- Local LLM deployment: Llama & Qwen-Coder 80B on NVIDIA Blackwell + vLLM, 3M+ tokens/day
+- Computer Vision QA on **Miura 5** rocket: dual-model pipeline (classifier F1=0.957 + Tversky U-Net AUC=0.997), cut manual review time by 50%
+
+---
+
+### Selected projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **Indoor Patrol Robot** *(Thesis)* | ROS 2, YOLOv8, Kafka, FastAPI, Flutter, InfluxDB | Autonomous SLAM + real-time detection, Kafka-decoupled robot-backend |
+| **Demon Attack AI** | C++, Q-Learning, Genetic Algorithms, ALE | Two RL approaches from scratch beating Atari via RAM register analysis |
+| **Sabadell GO!** | Multi-agent LLMs, PSD2 open banking | 1st place team at Innovation Banking Hack Fest 2025, 48h MVP |
+
+---
+
+### Stack
+
+```
+ML / DL       PyTorch · TensorFlow · OpenCV · Hugging Face · vLLM · Ollama
+LLMs / Agents LangChain · RAG · n8n · Qdrant
+Backend       FastAPI · Apache Kafka · Docker · Linux
+Databases     PostgreSQL · Qdrant · InfluxDB
+Robotics      ROS 2 · SLAM · Nav2
+Languages     Python · C++ · Java
+```
+
+---
+
+### GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ginescag&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=Ginescag&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="165"/>
+
 </div>
 
-*I have a solid foundation in distributed systems, ETL pipelines, and working with LLMs (including vLLM orchestration). I'm also eager to keep expanding my skill set in modern AI architectures and optimization.*
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ginescag&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
 
 ---
 
-## 🎨 Personal Interests
+<div align="center">
 
-- **Music:** My passion for music fuels my creativity and inspires my work.
-- **Fashion:** I believe style is a form of expression, and it influences my approach to design and innovation.
-- **Continuous Learning:** I’m always eager to expand my knowledge in tech, ML research, music, and fashion.
+<img src="https://count.getloli.com/get/@Ginescag/?theme=gelbooru" alt="Visitor counter"/>
 
----
+<br/><br/>
 
+*Open to internships, research collaborations, and projects where the ML actually has to work.*
 
+</div>
