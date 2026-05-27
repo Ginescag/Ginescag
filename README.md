@@ -19,10 +19,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### About me
 
 AI Developer & CS student at **University of Alicante** (GPA 9.0+), currently interning at **PLD Space** building ML systems that run on rocket hardware.
@@ -39,26 +35,11 @@ I work on problems where models need to perform in the real world — constraine
 🎓 &nbsp;CS @ University of Alicante · GPA 9.0+  
 📍 &nbsp;Alicante, Spain · Open to collaborations  
 
-</td>
-<td width="50%" valign="top">
-
-<img src="assets/metrics.svg" width="100%"/>
-
-</td>
-</tr>
-</table>
+---
 
 ### GitHub stats
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ginescag&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=FF4444&icon_color=FF4444&text_color=ffffff&bg_color=0d1117)
-
-![Streak](https://streak-stats.demolab.com?user=Ginescag&theme=dark&hide_border=true&background=0d1117&ring=CC0000&fire=FF4444&currStreakLabel=FF4444&sideLabels=ffffff&dates=888888&stroke=CC0000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginescag&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=8&title_color=FF4444&bg_color=0d1117)
-
-</div>
+<img src="assets/metrics.svg" width="100%"/>
 
 ---
 
