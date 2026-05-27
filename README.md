@@ -19,11 +19,11 @@
 
 ---
 
-### About me
+## About me
 
-AI Developer & CS student at **University of Alicante** (GPA 9.0+), currently interning at **PLD Space** building ML systems that run on rocket hardware.
+AI Developer & CS student at **University of Alicante**, currently interning at **PLD Space** building ML systems that run on rocket hardware.
 
-I work on problems where models need to perform in the real world — constrained hardware, proprietary data, zero tolerance for failure.
+I work on problems where models need to perform in the real world, working with proprietary data and zero tolerance for failure.
 
 **Interests beyond code:** music, fashion, continuous learning.
 
@@ -37,13 +37,13 @@ I work on problems where models need to perform in the real world — constraine
 
 ---
 
-### GitHub stats
+## GitHub stats
 
 <img src="assets/metrics.svg" width="100%"/>
 
 ---
 
-### Work that shipped
+## Work that shipped
 
 **🏭 PLD Space — AI Developer** *(Feb 2026 – Present)*
 
@@ -54,7 +54,7 @@ I work on problems where models need to perform in the real world — constraine
 
 ---
 
-### Projects
+## Projects
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I work on problems where models need to perform in the real world — constraine
 
 ---
 
-### Tech stack
+## Tech stack
 
 <div align="center">
 
