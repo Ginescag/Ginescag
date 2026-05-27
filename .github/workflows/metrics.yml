@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Europe/Madrid
+          config_display: large
           filename: assets/metrics.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -32,3 +33,18 @@ jobs:
           plugin_habits_charts: yes
           plugin_stars: yes
           plugin_stars_limit: 3
+          extras_css: |
+            .calendar rect { fill: #1a0000 }
+            .calendar rect[data-count="1"] { fill: #660000 }
+            .calendar rect[data-count="2"] { fill: #880000 }
+            .calendar rect[data-count="3"] { fill: #aa0000 }
+            .calendar rect[data-count="4"] { fill: #cc0000 }
+            .calendar rect[data-count="5"] { fill: #ff0000 }
+            .isocalendar rect { fill: #1a0000 !important }
+            .isocalendar rect[data-level="1"] { fill: #660000 !important }
+            .isocalendar rect[data-level="2"] { fill: #990000 !important }
+            .isocalendar rect[data-level="3"] { fill: #cc0000 !important }
+            .isocalendar rect[data-level="4"] { fill: #ff0000 !important }
+            h2 { color: #ff4444 !important }
+            a { color: #ff4444 !important }
+            .octicon { color: #ff4444 !important }

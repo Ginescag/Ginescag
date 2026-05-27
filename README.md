@@ -6,12 +6,10 @@
 ██║  ███╗██║██╔██╗ ██║█████╗  ███████╗██║     ███████║██║  ███╗
 ██║   ██║██║██║╚██╗██║██╔══╝  ╚════██║██║     ██╔══██║██║   ██║
 ╚██████╔╝██║██║ ╚████║███████╗███████║╚██████╗██║  ██║╚██████╔╝
- ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ 
+ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+ML+Engineer;Building+ML+that+ships+to+production;Alicante%2C+Spain+🇪🇸" alt="Typing SVG" />
-
-<br/>
+**`AI Developer · ML Engineer · Alicante, Spain`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ginescaballero-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ginescaballero)
 [![Email](https://img.shields.io/badge/Email-ginescag__2-CC0000?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ginescag_2@outlook.es)
@@ -21,7 +19,9 @@
 
 ---
 
-<img align="right" width="47%" src="assets/metrics.svg" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### About me
 
@@ -33,12 +33,30 @@ I work on problems where models need to perform in the real world — constraine
 
 <br/>
 
-- 🚀 &nbsp;Deployed LLMs serving **3M+ tokens/day** in aerospace
-- 🔬 &nbsp;Computer Vision on the **Miura 5** rocket welding line
-- 🤖 &nbsp;RAG pipelines, segmentation models, multi-agent flows
-- 📍 &nbsp;Alicante, Spain &nbsp;·&nbsp; Open to collaborations
+🚀 &nbsp;Deployed LLMs serving **3M+ tokens/day** in aerospace  
+🔬 &nbsp;Computer Vision on the **Miura 5** rocket welding line  
+🤖 &nbsp;RAG pipelines, segmentation models, multi-agent flows  
+🎓 &nbsp;CS @ University of Alicante · GPA 9.0+  
+📍 &nbsp;Alicante, Spain · Open to collaborations  
 
-<br clear="right"/>
+<br/>
+
+### GitHub stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ginescag&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=FF4444&icon_color=FF4444&text_color=ffffff&bg_color=0d1117" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=Ginescag&theme=dark&hide_border=true&background=0d1117&ring=CC0000&fire=FF4444&currStreakLabel=FF4444&sideLabels=ffffff&dates=888888&stroke=CC0000" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginescag&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=8&title_color=FF4444&bg_color=0d1117" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="assets/metrics.svg" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,21 +120,6 @@ I work on problems where models need to perform in the real world — constraine
 
 ![ROS2](https://img.shields.io/badge/ROS_2-CC0000?style=flat-square&logo=ros&logoColor=white)
 
-</div>
-
----
-
-### GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ginescag&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=FF4444&icon_color=FF4444&text_color=ffffff" />
-<img height="170" src="https://streak-stats.demolab.com?user=Ginescag&theme=github-dark-blue&hide_border=true&ring=FF4444&fire=FF4444&currStreakLabel=FF4444" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginescag&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=8&title_color=FF4444" />
 </div>
 
 ---
