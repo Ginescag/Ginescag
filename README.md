@@ -2,8 +2,6 @@
 
 I'm an AI Developer and Computer Engineering student specializing in Machine Learning, Robotics, and Computer Vision. Known for being an easy person to work with and a hard worker, I thrive in collaborative environments and love building optimized ML systems from research to production. 
 
-Currently, I am in my senior year at the University of Alicante (graduating in July 2026). I work as an AI Developer Intern at PLD Space, where I architect industrial-grade RAG pipelines, deploy local LLMs (like Llama 3 and Qwen-Coder) on NVIDIA Blackwell architecture, and engineer PyTorch segmentation models for the Miura 5 aerospace project. Fluent in both **Spanish** (Native) and **English** (C1). I am also open to relocate.
-
 Beyond coding and ML architectures, my passion for music and fashion fuels my creativity and inspires my work. I'm always learning new things across these fields, striving to integrate creativity with technical excellence.
 
 Let's connect and build something amazing!
