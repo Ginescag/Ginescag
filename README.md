@@ -76,7 +76,7 @@ I work on problems where models need to perform in the real world — constraine
 <div align="center">
 
 | 🤖 Indoor Patrol Robot *(Thesis)* | 🎮 Demon Attack AI |
-|---|---|---|
+|---|---|
 | ROS 2 · YOLOv8 · Kafka · FastAPI · Flutter · InfluxDB · S3 | C++ · Q-Learning · Genetic Algorithms · ALE |
 | Autonomous SLAM + real-time detection, Kafka-decoupled robot-backend | Two RL approaches from scratch beating Atari via RAM register analysis |
 
