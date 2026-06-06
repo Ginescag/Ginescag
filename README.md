@@ -29,7 +29,7 @@ I work on problems where models need to perform in the real world, working with 
 
 <br/>
 
-🚀 &nbsp;Deployed LLMs serving **3M+ tokens/day** in aerospace  
+🚀 &nbsp;Deployed LLMs serving **3M+ tokens/day**
 🔬 &nbsp;Computer Vision on the **Miura 5** rocket welding line  
 🤖 &nbsp;RAG pipelines, segmentation models, multi-agent flows  
 🎓 &nbsp;CS @ University of Alicante · GPA 9.0+  
